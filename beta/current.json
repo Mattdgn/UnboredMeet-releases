@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "channel": "beta",
   "version": "0.1.0",
-  "build": 12,
-  "commit": "901c5bc3eca44fa718cda0adb746f544872af5cc",
-  "publishedAt": "2026-10-13T10:05:07.206Z",
+  "build": 13,
+  "commit": "2e1ae65df5b3019797eb3d0a5ed9422361123aba",
+  "publishedAt": "2026-10-14T08:16:27.419Z",
   "architecture": "arm64",
   "minimumSystemVersion": "14.2",
   "dmg": {
-    "url": "https://github.com/Mattdgn/UnboredMeet-releases/releases/download/macos-beta.12/UnboredMeet.dmg",
-    "size": 2634325,
-    "sha256": "050ff8af954873d75a23cbc6dfb1460636534080a0299ad3d62d6ccf3c3d3600"
+    "url": "https://github.com/Mattdgn/UnboredMeet-releases/releases/download/macos-beta.13/UnboredMeet.dmg",
+    "size": 2634581,
+    "sha256": "35e439bd1d6552ff161592e520f587fc853487f5b3244075b13108621c348f83"
   },
   "update": {
-    "url": "https://github.com/Mattdgn/UnboredMeet-releases/releases/download/macos-beta.12/UnboredMeet.zip",
-    "size": 2300196,
-    "sha256": "420abe9114f36bc326562562e3c8712004ad930c44467927c14a768b0a09490e",
-    "edSignature": "lM4fs2/13MxaCleVzG3Z2MxOphBAnOW7yjymLr5xB+YwW+eiukU3p18XJfSi1LH/g8BKBwGwdsIKjeWctkcgCw=="
+    "url": "https://github.com/Mattdgn/UnboredMeet-releases/releases/download/macos-beta.13/UnboredMeet.zip",
+    "size": 2303344,
+    "sha256": "6fdb071b5e6d3a7f98e4d615be766aae08412878f1eb45776054b8c7de85437d",
+    "edSignature": "cq9GmeDqChQn47dwdS/+x+m3CCBZGmBh/UVfEiC2UwmVDp+9VjeLki+oqncCwKYepa7twSV1uMV/0vk9N1ArCA=="
   }
 }
